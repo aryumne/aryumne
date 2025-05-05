@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&weight=700&size=30&pause=1000&color=27F724&width=435&lines=Hi+there+%F0%9F%91%8B%2C+I'm+Aryum+N+E.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&weight=700&size=25&pause=1000&color=27F724&width=435&lines=Hi+there+%F0%9F%91%8B%2C+I'm+Aryum+N+E.)](https://git.io/typing-svg)
 
 I'm a fullstack web developer based in Indonesia, currently working in the footwear manufacturing industry. I build internal systems to streamline data flow and team collaboration—from raw BOM (Bill of Materials) data to production-ready workflows.
 

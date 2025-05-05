@@ -1,16 +1,27 @@
-## Hi there 👋
+# 👋 Hi there, I'm Aryum N.E.
 
-<!--
-**aryumne/aryumne** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a fullstack web developer based in Indonesia, currently working in the footwear manufacturing industry. I build internal systems to streamline data flow and team collaboration—from raw BOM (Bill of Materials) data to production-ready workflows.
 
-Here are some ideas to get you started:
+## 🛠 Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Backend Framework**: Laravel (PHP), Express (JS & TS). 
+- **Frontend Framework**: Vue 3, Angular.  
+- **Database**: Mysql, PostgreSql, Sql Server, Mongo DB, Redis.
+- **Deployment**: Shared Hosting, VPS.
+- **Development Tools**: Ubuntu, Git, VS Code.
+- **Programming Language**: PHP, Javascript, Typescript, Python, Golang.
+- **Others**: Looker Studio (Visualisation Data), Lucid App (Designing System), Clickup (Managing project), etc.
+
+## 🧠 Currently Learning
+- Deep dive into **Golang** for backend architecture
+- System design patterns for internal tools
+- Agile methodology and best practices in dev teams
+
+## 📫 Let's Connect
+
+- 💼 [LinkedIn](https://linkedin.com/in/aryumne)
+- 📬 Email: erliandi.n.aryum@gmail.com
+
+---
+
+> *"Code that helps people do less manual work is the kind of code I love to write."*
